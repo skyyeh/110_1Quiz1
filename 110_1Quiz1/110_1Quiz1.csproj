@@ -68,6 +68,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Ad.aspx" />
+    <Content Include="Ad.xml" />
     <Content Include="Global.asax" />
     <Content Include="Web.config" />
   </ItemGroup>
